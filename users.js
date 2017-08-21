@@ -1,8 +1,12 @@
 module.exports = {
- users: [{
-   "colin": "dimeo",
-   "brett": "shirley",
-   "tivona": "spruilli",
-   "katy": "dillard"
- }]
+ users: [
+   {
+      username: "colin",
+      password: "password"
+   },
+   {
+      username: "dimeo",
+      password: "password"
+   }
+ ]
 }
