@@ -40,17 +40,12 @@ for (let i = 0; i < data.users.length; i++) {
      res.redirect('/login');
   }
 }
-
- // if (username && password) {
- //  console.log('logged in!');
- // } else {
- //  console.log('no dice!');
- // }
 });
 
 app.listen(port, function(req, res){
  console.log('Starting express-session login app...');
 });
+
 
 // amys answers
 

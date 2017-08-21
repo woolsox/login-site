@@ -7,6 +7,14 @@ module.exports = {
    {
       username: "dimeo",
       password: "password"
+   },
+   {
+      username: "foo",
+      password: "bar"
+   },
+   {
+      username: "bar",
+      password: "foo"
    }
  ]
 }
